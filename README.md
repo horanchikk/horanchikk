@@ -6,7 +6,7 @@
 
 Now I am working on...
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=horandev&repo=qVim&theme=dark)](https://github.com/horandev/fdpclientinstaller)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=horandev&repo=qVim&theme=dark)](https://github.com/horandev/qVim)
 
 ## How to contact me?
 
