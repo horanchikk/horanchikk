@@ -7,8 +7,6 @@ Now I am working on...
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=horandev&repo=qVim&theme=dark)](https://github.com/horandev/fdpclientinstaller)
 
-and other desktop projects!
-
 ## How to contact me?
 
 [![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png)](https://t.me/h0r1n)
