@@ -1,7 +1,5 @@
 # 👾 Hey, I'm horan! Welcome to my GitHub page!
 
-![](https://github-readme-stats.vercel.app/api?username=horan&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horandev&theme=dark)](https://github.com/horandev/github-readme-stats)
 
 Now I am working on...
