@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horandev&theme=dark)](https://github.com/horandev/github-readme-stats)
 
-Now I am working at...
+My main project is...
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=horandev&repo=qVim&theme=dark)](https://github.com/horandev/qVim)
 
