@@ -8,4 +8,6 @@
 
 https://docs.google.com/presentation/d/10r0_iPLYmXCPG1kpZr_yZozeq3-Rbx7rW0hL-0Dp8a0/edit?usp=sharing
 
+https://chrome.google.com/webstore/detail/remote-for-slides/pojijacppbhikhkmegdoechbfiiibppi
+
 https://slides.limhenry.xyz/
