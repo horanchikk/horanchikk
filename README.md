@@ -6,8 +6,7 @@
 
 [![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png)](https://t.me/h0r1n)
 
-https://docs.google.com/presentation/d/1rLrzGOXvxmi9QhjuArSZCWx937qohn9WKG4FX2nwcZU/edit?usp=sharing
+https://docs.google.com/document/d/1Sp6wIoWOz78TJWR9PMqiC6p6nYHHbh-Z1YMErnPte88/edit?usp=sharing
 
-https://chrome.google.com/webstore/detail/remote-for-slides/pojijacppbhikhkmegdoechbfiiibppi
 
-https://slides.limhenry.xyz/
+https://docs.google.com/presentation/d/1Li-dVxIYU3wWhE4Ibfx1CekYBtbMSK4qrSCqMUcdlxU/edit?usp=sharing
