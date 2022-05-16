@@ -1,6 +1,4 @@
-<div align="center">
-  # 👾 Hey, I'm horan! Welcome to my GitHub page!
-</div>
+# 👾 Hey, I'm horan! Welcome to my GitHub page!
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=horanchikk&theme=tokyonight&show_icons=false)
 
