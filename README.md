@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://github.com/horanchikk/horanchikk/raw/main/banner%20(1).png">
+![github-stats](https://github-readme-stats.vercel.app/api?username=horanchikk&theme=tokyonight&show_icons=false)
+<img alt="Coding" width="400" src="https://github.com/horanchikk/horanchikk/raw/main/banner%20(1).png">
 
 <div align="center">
   <h1>Connect with me:</h1>
