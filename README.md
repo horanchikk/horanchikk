@@ -11,6 +11,8 @@
 
 <div align="center">
   <h2>Connect with me:</h2>
-  <a href="https://t.me/horanchikk"><img src="https://cdn.jsdelivr.net/npm/simple-icons@6.23.0/icons/telegram.svg" height="100" width="100" /></a>
 
 </div>
+<div align="center"> <img src="https://discord.c99.nl/widget/theme-3/339318507130978307.png" height="100" width="500"> </div>
+  
+<div align="center"><a href="https://t.me/horanchikk"><img style="filter: invert(100%)" src="https://cdn.jsdelivr.net/npm/simple-icons@6.23.0/icons/telegram.svg" height="100" width="100" /></a></div>
