@@ -26,8 +26,8 @@
 
 </div>
 <div align="center" style="display: flex; gap: 2rem;"> 
-
-<a href="https://t.me/horanchikk"><img style="filter: invert(100%)" src="telegram.img" height="100" width="100" /></a>
+<a href="https://discordapp.com/users/339318507130978307"><img src="discord.png" height="80" width="100"></a>
+<a href="https://t.me/horanchikk"><imgsrc="telegram.png" height="80" width="100" /></a>
 
 </div>
 
