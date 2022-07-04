@@ -2,12 +2,6 @@
 
 <br />
 
-<div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=horanchikk&hide_title=false&bg_color=44454d&color=cfeefc&line=80cbc4&point=ffffff&area=false&hide_border=true">
-</div>
-
-<br />
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssleert&theme=onedark">
   <img src="https://github-readme-stats.vercel.app/api?username=horanchikk&theme=tokyonight&show_icons=false">
@@ -18,8 +12,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horanchikk&layout=compact&theme=dark&show_icons=true">
 </div>
-
 <br />
+
 
 <div align="center">
   <h2>Connect with me:</h2>
