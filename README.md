@@ -13,11 +13,9 @@
 <br />
 
 ```
-
 👨‍💻 I am working with: Javascript, Typescript, Python
 🔥 Frontend: Vue.JS (Nuxt), Pinia (VueX), SCSS, Tailwind, Material+, Capacitor
 ⚒️ Backend: Nest.JS, Express.JS, FastAPI
 📚 DB: MongoDB
 👾 OS: Windows + Linux
-
 ```
