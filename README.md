@@ -1,3 +1,11 @@
+```
+👨‍💻 I am working with: Javascript, Typescript, Python
+🔥 Frontend: Vue.JS (Nuxt), Pinia (VueX), SCSS, Tailwind, Material+, Capacitor
+⚒️ Backend: Nest.JS, Express.JS, FastAPI
+📚 DB: MongoDB
+👾 OS: Windows + Linux
+```
+
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd3YTkwcThzeXlzdTNpczNmcGxuc21xYnltMTYyN3h2cTV2eW9ueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="200" />
   <br />
@@ -11,11 +19,3 @@
 </div>
 
 <br />
-
-```
-👨‍💻 I am working with: Javascript, Typescript, Python
-🔥 Frontend: Vue.JS (Nuxt), Pinia (VueX), SCSS, Tailwind, Material+, Capacitor
-⚒️ Backend: Nest.JS, Express.JS, FastAPI
-📚 DB: MongoDB
-👾 OS: Windows + Linux
-```
