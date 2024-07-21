@@ -14,8 +14,6 @@
     <a href="mailto:horandev.service@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <!--     <a href="https://google.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
   </div>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=horanchikk&show_icons=true&text_color=fff&theme=dark&bg_color=0,0f0c29,302b63,24243e&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </div>
 
 <br />
