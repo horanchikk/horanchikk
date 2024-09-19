@@ -3,7 +3,7 @@
 🔥 Frontend: Vue (Nuxt), Pinia/VueX, Tailwind/SCSS, Material+, Capacitor/Ionic
 ⚒️ Backend: Nest.JS, Express.JS, FastAPI
 📚 DB: MongoDB, MySQL
-👾 OS: Windows + Linux
+👾 OS: Windows, Linux
 ```
 
 <div align="center">
