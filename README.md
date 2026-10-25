@@ -1,8 +1,8 @@
 ```
 👨‍💻 I am working with: Javascript, Typescript, Python
 🔥 Frontend: Vue (Nuxt), Pinia/VueX, Tailwind/SCSS, Material+, Capacitor/Ionic
-⚒️ Backend: Nest.JS, Express.JS, FastAPI
-📚 DB: MongoDB, MySQL
+⚒️ Backend: Nest.JS, FastAPI
+📚 DB: MongoDB, PostgreSQL
 👾 OS: Windows, Linux
 ```
 
